@@ -27,6 +27,7 @@ void output()
     (panjang, lebar) << endl;
 }
 
+
 int main()
 {
     input();
